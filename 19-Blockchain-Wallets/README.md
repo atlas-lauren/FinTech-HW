@@ -4,7 +4,7 @@
 
 ### Final Submission
 
-I set up the transaction to transfer an ETH wage to Jo for 3 hours of work:
+I set up the transaction to transfer Jo's wages in eth for 3 hours of work:
 
 ![alt=""](Images/1-original.png)
 
@@ -17,9 +17,9 @@ I then ran another transaction to Jo, this time for 23 hours of work, and saw th
 
 ![alt=""](Images/4-jo-second-hash.png)
 
-The transaction history:
+The transaction history with Jo shows the transfer to Jo's original address, and then a second transfer after I changed Jo's address in the code to reflect an address in my Ganache session:
 
-![alt=""](Images/5-transaction-history.png)
+![alt=""](Images/5-jo-transaction-history.png)
 
 ## Directions:
 
