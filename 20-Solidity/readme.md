@@ -57,3 +57,8 @@ ___
 ### 7. Withdraw 10 eth into Account Two. Note the "lasttoWithdraw" variable is set as the Account Two address.
 
 ![alt=""](Execution_Results/10_wd_ten_acct_two.png)
+___
+
+### 8. Check the final balance of the savings account contract. After adding 16 eth, then withdrawing 5 eth to Account One and 10 eth to Account Two the balance of the savings account stands at 1 eth (1000000000000000000 wei).
+
+![alt=""](Execution_Results/11_final_balance.png)
